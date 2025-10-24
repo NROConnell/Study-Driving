@@ -1,0 +1,503 @@
+[
+  {
+    "question": "What does a red traffic light mean?",
+    "options": ["1. Go", "2. Stop", "3. Slow down"],
+    "answer": 2
+  },
+  {
+    "question": "When should you use your turn signal?",
+    "options": ["1. Never", "2. Only on highways", "3. When turning or changing lanes"],
+    "answer": 3
+  },
+  {
+    "question": "What is the legal blood alcohol limit for most drivers in the US?",
+    "options": ["1. 0.08%", "2. 0.15%", "3. 0.00%"],
+    "answer": 1
+  },
+  {
+    "question": "What does a flashing yellow light mean?",
+    "options": ["1. Stop immediately", "2. Proceed with caution", "3. Speed up"],
+    "answer": 2
+  },
+  {
+    "question": "Who has the right of way at a four-way stop?",
+    "options": ["1. The car on the left", "2. The car that arrives first", "3. The last car to arrive"],
+    "answer": 2
+  },
+  {
+    "question": "What does a yield sign mean?",
+    "options": ["1. Give way to other traffic", "2. Stop completely", "3. Speed up"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do when approaching a school bus with flashing red lights?",
+    "options": ["1. Stop until lights turn off", "2. Honk and pass slowly", "3. Pass quickly"],
+    "answer": 1
+  },
+  {
+    "question": "What does a solid yellow line on your side of the road mean?",
+    "options": ["1. Road ends ahead", "2. No passing allowed", "3. You may pass"],
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of a speed limit sign?",
+    "options": ["1. To indicate the maximum legal speed", "2. To show average speed", "3. To suggest a safe speed"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if your vehicle starts to skid?",
+    "options": ["1. Accelerate", "2. Steer in the direction of the skid", "3. Brake hard"],
+    "answer": 2
+  },
+  {
+    "question": "What does a green traffic light mean?",
+    "options": ["1. Go", "2. Stop", "3. Slow down"],
+    "answer": 1
+  },
+  {
+    "question": "What is the meaning of a broken white line on the road?",
+    "options": ["1. Lane change permitted", "2. No lane change allowed", "3. Road closed ahead"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do at a railroad crossing with flashing lights?",
+    "options": ["1. Stop and wait", "2. Ignore the lights", "3. Speed up"],
+    "answer": 1
+  },
+  {
+    "question": "What does a stop sign mean?",
+    "options": ["1. Stop completely", "2. Yield", "3. Slow down"],
+    "answer": 1
+  },
+  {
+    "question": "What is the meaning of a double solid yellow line?",
+    "options": ["1. No passing either direction", "2. Passing allowed both ways", "3. Passing allowed one way"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if an emergency vehicle is approaching with lights on?",
+    "options": ["1. Pull over and stop", "2. Keep driving", "3. Speed up to get out of the way"],
+    "answer": 1
+  },
+  {
+    "question": "What does a roundabout sign indicate?",
+    "options": ["1. Circular intersection ahead", "2. Dead end", "3. Speed bump"],
+    "answer": 1
+  },
+  {
+    "question": "What is the minimum following distance in good conditions?",
+    "options": ["1. 2 seconds", "2. 1 second", "3. 5 seconds"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do when driving in fog?",
+    "options": ["1. Use low beams", "2. Turn off headlights", "3. Use high beams"],
+    "answer": 1
+  },
+  {
+    "question": "What does a pedestrian crossing sign mean?",
+    "options": ["1. Watch for people crossing", "2. Speed up", "3. No pedestrians allowed"],
+    "answer": 1
+  },
+
+  {
+    "question": "What does a no U-turn sign mean?",
+    "options": ["1. U-turns allowed", "2. No U-turns permitted", "3. U-turns only during daylight"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do before changing lanes?",
+    "options": ["1. Honk your horn", "2. Check mirrors and blind spots", "3. Speed up quickly"],
+    "answer": 2
+  },
+  {
+    "question": "What does a solid white line mean?",
+    "options": ["1. Passing allowed", "2. Lane change discouraged", "3. Road ends"],
+    "answer": 2
+  },
+  {
+    "question": "What does a red and white triangular sign mean?",
+    "options": ["1. Stop", "2. Yield", "3. No entry"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do at a yellow traffic light?",
+    "options": ["1. Speed up", "2. Prepare to stop", "3. Turn left quickly"],
+    "answer": 2
+  },
+  {
+    "question": "What does a blue road sign typically indicate?",
+    "options": ["1. Warning", "2. Services or information", "3. Speed limit"],
+    "answer": 2
+  },
+  {
+    "question": "What does a green arrow mean at a traffic light?",
+    "options": ["1. Turn is allowed", "2. Stop before turning", "3. No turns allowed"],
+    "answer": 1
+  },
+  {
+    "question": "What should you do if your brakes fail?",
+    "options": ["1. Pump the brakes", "2. Speed up", "3. Turn off the engine"],
+    "answer": 1
+  },
+  {
+    "question": "What does a diamond-shaped sign indicate?",
+    "options": ["1. Regulatory instruction", "2. Warning", "3. Route marker"],
+    "answer": 2
+  },
+  {
+    "question": "What is the hand signal for a left turn?",
+    "options": ["1. Left arm straight out", "2. Left arm bent upward", "3. Left arm bent downward"],
+    "answer": 1
+  },
+  {
+    "question": "What does a yellow curb mean?",
+    "options": ["1. No parking anytime", "2. Loading zone", "3. Fire lane"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do when approaching a blind intersection?",
+    "options": ["1. Honk and proceed", "2. Slow down and look both ways", "3. Speed through quickly"],
+    "answer": 2
+  },
+  {
+    "question": "What does a red X above a lane mean?",
+    "options": ["1. Lane open", "2. Lane closed", "3. Speed limit change"],
+    "answer": 2
+  },
+  {
+    "question": "What does a white rectangular sign usually indicate?",
+    "options": ["1. Warning", "2. Regulatory", "3. Construction"],
+    "answer": 2
+  },
+  {
+    "question": "What is the meaning of a flashing red light?",
+    "options": ["1. Proceed slowly", "2. Stop and proceed when safe", "3. Speed up"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do when driving through a work zone?",
+    "options": ["1. Maintain speed", "2. Slow down and follow signs", "3. Ignore cones"],
+    "answer": 2
+  },
+  {
+    "question": "What does a school zone sign mean?",
+    "options": ["1. Speed up", "2. Watch for children and reduce speed", "3. No stopping allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a railroad crossing sign look like?",
+    "options": ["1. Octagon", "2. Circle with an X", "3. Triangle"],
+    "answer": 2
+  },
+  {
+    "question": "What does a merge sign mean?",
+    "options": ["1. Road ends", "2. Traffic from another road may join", "3. No entry"],
+    "answer": 2
+  },
+  {
+    "question": "What should you do if you miss your exit on the highway?",
+    "options": ["1. Reverse on the shoulder", "2. Make a U-turn", "3. Continue to the next exit"],
+    "answer": 3
+  },
+  {
+    "question": "What does a slippery when wet sign mean?",
+    "options": ["1. Road may be icy", "2. Pavement is always dry", "3. Road is closed"],
+    "answer": 1
+  },
+  {
+    "question": "What does a divided highway sign indicate?",
+    "options": ["1. One-way street", "2. Two-way traffic with median", "3. No passing zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a construction zone sign look like?",
+    "options": ["1. Orange diamond", "2. Blue rectangle", "3. Red triangle"],
+    "answer": 1
+  },
+  {
+    "question": "What does a no parking sign mean?",
+    "options": ["1. Parking allowed anytime", "2. Parking prohibited", "3. Parking only for trucks"],
+    "answer": 2
+  },
+  {
+    "question": "What does a speed bump sign warn of?",
+    "options": ["1. Sharp curve", "2. Raised pavement ahead", "3. Slippery road"],
+    "answer": 2
+  },
+  {
+    "question": "What does a deer crossing sign mean?",
+    "options": ["1. Zoo nearby", "2. Watch for animals crossing", "3. No wildlife allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a hospital sign indicate?",
+    "options": ["1. Emergency services nearby", "2. No entry", "3. Parking lot"],
+    "answer": 1
+  },
+  {
+    "question": "What does a bike lane sign mean?",
+    "options": ["1. No bicycles allowed", "2. Shared lane with cars", "3. Lane reserved for bicycles"],
+    "answer": 3
+  },
+  {
+    "question": "What does a one-way sign mean?",
+    "options": ["1. Two-way traffic", "2. Travel only in direction shown", "3. No turns allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a wrong way sign mean?",
+    "options": ["1. Proceed with caution", "2. Do not enter", "3. You are going against traffic"],
+    "answer": 3
+  },
+  {
+    "question": "What does a no entry sign mean?",
+    "options": ["1. Road open", "2. Entry allowed only for trucks", "3. Do not enter this road"],
+    "answer": 3
+  },
+  {
+    "question": "What does a railroad crossing gate with lights mean?",
+    "options": ["1. Proceed slowly", "2. Stop and wait", "3. Cross quickly"],
+    "answer": 2
+  },
+  {
+    "question": "What does a school crossing sign look like?",
+    "options": ["1. Pentagon shape", "2. Circle shape", "3. Triangle shape"],
+    "answer": 1
+  },
+  {
+    "question": "What does a yield sign look like?",
+    "options": ["1. Red octagon", "2. Yellow diamond", "3. Red and white triangle"],
+    "answer": 3
+  },
+  {
+    "question": "What does a stop sign look like?",
+    "options": ["1. Red octagon", "2. Yellow triangle", "3. Blue rectangle"],
+    "answer": 1
+  },
+  {
+    "question": "What does a speed limit sign look like?",
+    "options": ["1. White rectangle", "2. Red circle", "3. Yellow diamond"],
+    "answer": 1
+  },
+  {
+    "question": "What does a no passing zone sign look like?",
+    "options": ["1. Pennant shape", "2. Circle shape", "3. Square shape"],
+    "answer": 1
+  },
+  {
+    "question": "What does a curve ahead sign mean?",
+    "options": ["1. Road ends", "2. Sharp turn ahead", "3. No turns allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a lane ends sign mean?",
+    "options": ["1. Merge with adjacent lane", "2. Stay in lane", "3. Turn around"],
+    "answer": 1
+  },
+  {
+    "question": "What does a falling rocks sign mean?",
+    "options": ["1. Road closed", "2. Watch for debris", "3. No stopping allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a round yellow sign with an X mean?",
+    "options": ["1. School zone", "2. Railroad crossing", "3. No parking"],
+    "answer": 2
+  },
+  {
+    "question": "What does a red circle with a white horizontal line mean?",
+    "options": ["1. Do not enter", "2. Stop", "3. Yield"],
+    "answer": 1
+  },
+  {
+    "question": "What does a green sign typically indicate?",
+    "options": ["1. Warning", "2. Direction or guidance", "3. Construction"],
+    "answer": 2
+  },
+  {
+    "question": "What does a flashing yellow arrow mean?",
+    "options": ["1. Stop", "2. Turn with caution", "3. No turns allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a white line across the road at an intersection mean?",
+    "options": ["1. Stop line", "2. Speed bump", "3. Parking zone"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a truck going downhill mean?",
+    "options": ["1. Steep descent ahead", "2. Truck route", "3. No trucks allowed"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with two arrows going opposite directions mean?",
+    "options": ["1. One-way traffic", "2. Two-way traffic", "3. Merge ahead"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a curved arrow and a line through it mean?",
+    "options": ["1. No left turn", "2. No U-turn", "3. No right turn"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a person holding a flag mean?",
+    "options": ["1. Crossing guard ahead", "2. Flagger in work zone", "3. Parade route"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a car and squiggly lines mean?",
+    "options": ["1. Slippery when wet", "2. Road closed", "3. Speed bump"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a red circle and a bicycle inside mean?",
+    "options": ["1. Bicycle lane", "2. No bicycles allowed", "3. Bike crossing"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with arrows merging into one mean?",
+    "options": ["1. Lane ends", "2. Merge ahead", "3. No passing"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a person walking mean?",
+    "options": ["1. Pedestrian crossing", "2. No pedestrians", "3. School zone"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a red circle and a horn inside mean?",
+    "options": ["1. Honk here", "2. No honking", "3. Emergency horn zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red triangle and exclamation mark mean?",
+    "options": ["1. General warning", "2. Stop", "3. Yield"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a gas pump mean?",
+    "options": ["1. Gas station nearby", "2. No fuel available", "3. Electric charging only"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a bed symbol mean?",
+    "options": ["1. Hospital", "2. Rest area", "3. Motel"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a fork and knife mean?",
+    "options": ["1. Picnic area", "2. Restaurant nearby", "3. Food not allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a telephone symbol mean?",
+    "options": ["1. Emergency phone available", "2. No cell service", "3. Payphone only"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a wheelchair symbol mean?",
+    "options": ["1. Handicap accessible", "2. No wheelchairs allowed", "3. Hospital zone"],
+    "answer": 1
+  },
+  {
+    "question": "What does a sign with a person in a wheelchair and a slash through it mean?",
+    "options": ["1. Handicap accessible", "2. No wheelchair access", "3. Hospital nearby"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a truck inside mean?",
+    "options": ["1. Truck route", "2. No trucks allowed", "3. Truck parking only"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a pedestrian inside mean?",
+    "options": ["1. Pedestrian zone", "2. No pedestrians allowed", "3. Crosswalk ahead"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a car inside mean?",
+    "options": ["1. Carpool lane", "2. No cars allowed", "3. Vehicle inspection station"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a motorcycle inside mean?",
+    "options": ["1. Motorcycle lane", "2. No motorcycles allowed", "3. Motorcycle parking"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a bus inside mean?",
+    "options": ["1. Bus stop", "2. No buses allowed", "3. Bus lane"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a tractor inside mean?",
+    "options": ["1. Farm zone", "2. No tractors allowed", "3. Tractor crossing"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a horn inside mean?",
+    "options": ["1. Honk here", "2. No honking", "3. Emergency horn zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a flame inside mean?",
+    "options": ["1. Fire zone", "2. No open flames", "3. Campfire area"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a camera inside mean?",
+    "options": ["1. Photo zone", "2. No photography", "3. Speed camera ahead"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a dog inside mean?",
+    "options": ["1. Dog park", "2. No dogs allowed", "3. Pet zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a bicycle inside mean?",
+    "options": ["1. Bike lane", "2. No bicycles allowed", "3. Bike crossing"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a snowflake inside mean?",
+    "options": ["1. Winter zone", "2. No snow tires allowed", "3. Slippery conditions"],
+    "answer": 3
+  },
+  {
+    "question": "What does a sign with a red circle and a fuel pump inside mean?",
+    "options": ["1. Gas station", "2. No refueling allowed", "3. Electric charging only"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a cellphone inside mean?",
+    "options": ["1. Cellphone zone", "2. No cellphone use", "3. Emergency call area"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a speaker inside mean?",
+    "options": ["1. Loud music zone", "2. No loud sounds", "3. Audio alert area"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a person running inside mean?",
+    "options": ["1. Jogging path", "2. No running allowed", "3. Track zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a skateboard inside mean?",
+    "options": ["1. Skate park", "2. No skateboarding", "3. Skate zone"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a rollerblade inside mean?",
+    "options": ["1. Rollerblade zone", "2. No rollerblading", "3. Skating allowed"],
+    "answer": 2
+  },
+  {
+    "question": "What does a sign with a red circle and a drone inside mean?",
+    "options": ["1. Drone zone", "2. No drones allowed", "3. Drone launch area"],
+    "answer": 2
+  }
+]

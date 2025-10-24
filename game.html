@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Drive & Learn Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- 🏠 Home Button -->
+  <div class="top-bar">
+    <a href="index.html" class="home-button">🏠 Home</a>
+  </div>
+
+  <div class="game-container">
+    <div class="score">Score: <span id="score">0</span> seconds</div>
+
+    <div class="layout">
+      <!-- ❓ Questions Section -->
+      <div class="questions">
+        <h3>Question</h3>
+        <div id="question-text"></div>
+        <ul id="question-options"></ul>
+      </div>
+
+      <!-- 🛣 Game Area -->
+      <div class="road">
+        <div class="lane" onclick="changeLane(0)"></div>
+        <div class="lane" onclick="changeLane(1)"></div>
+        <div class="lane" onclick="changeLane(2)"></div>
+        <div id="barriers"></div>
+        <div id="car"></div>
+      </div>
+
+      <!-- 📊 Leaderboard -->
+      <div class="leaderboard">
+        <h3>Leaderboard</h3>
+        <ul id="leaderboard-list"></ul>
+        <button onclick="resetLeaderboard()">Reset Leaderboard</button>
+      </div>
+    </div>
+
+    <!-- 🕹 Controls -->
+    <div class="controls">
+      <button onclick="startGame()">Start</button>
+      <button onclick="restartGame()">Restart</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

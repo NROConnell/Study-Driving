@@ -1,0 +1,248 @@
+@keyframes moveRoad {
+  0% {
+    background-position-y: 0;
+  }
+
+  100% {
+    background-position-y: 100%;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+/* 🧭 Navbar */
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 15px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: left;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+}
+
+.nav-title {
+  font-family: sans-serif;
+}
+
+/* 🏠 Home screen */
+.home-content {
+  text-align: center;
+  margin-top: 120px;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+.home-content h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.home-content p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+.start-button {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 18px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+  background-color: #45a049;
+}
+
+/* 🏠 Home button on game screen */
+.top-bar {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  background-color: #222;
+}
+
+.home-button {
+  background-color: #444;
+  color: #fff;
+  padding: 8px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 6px;
+  transition: background-color 0.3s ease;
+}
+
+.home-button:hover {
+  background-color: #666;
+}
+
+/* 🎮 Game container */
+.game-container {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.score {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.layout {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 40px;
+  margin-top: 20px;
+}
+
+/* 🛣 Road styling */
+.road {
+  position: relative;
+  width: 300px;
+  height: 500px;
+  background: repeating-linear-gradient(to bottom,
+      #555 0px,
+      #555 40px,
+      #666 40px,
+      #666 80px);
+  background-size: 100% 80px;
+  display: flex;
+  flex-direction: row;
+  border: 5px solid #333;
+  overflow: hidden;
+}
+
+.road.animate {
+  animation: moveRoad 0.8s linear infinite;
+}
+
+.lane {
+  flex: 1;
+  height: 100%;
+  border-left: 2px dashed #999;
+  cursor: pointer;
+}
+
+.lane:last-child {
+  border-right: 2px dashed #999;
+}
+
+#car {
+  position: absolute;
+  bottom: 20px;
+  width: 60px;
+  height: 100px;
+  background-image: url("images/red-car.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  transition: left 0.3s ease;
+  z-index: 10;
+}
+
+#barriers {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.barrier {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  /* Square shape */
+  border-radius: 10px;
+  pointer-events: none;
+  z-index: 5;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+/* 📊 Sidebar sections */
+.leaderboard,
+.questions {
+  width: 250px;
+  background: #333;
+  color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  font-family: sans-serif;
+}
+
+.leaderboard h3,
+.questions h3 {
+  margin-top: 0;
+  font-size: 20px;
+  text-align: center;
+}
+
+#leaderboard-list,
+#question-options {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+#leaderboard-list li,
+#question-options li {
+  margin-bottom: 8px;
+  font-size: 14px;
+  border-bottom: 1px solid #555;
+  padding-bottom: 4px;
+}
+
+.leaderboard button {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  background: #555;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+#question-text {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
